@@ -135,8 +135,8 @@ pandas 3.0, scikit-learn 1.8, scikit-image 0.26, Pillow 12 and xlrd 2. No GPU is
 ### Locally
 
 ```
-git clone <this repository>
-cd <repository>
+git clone https://github.com/sopongth/it2fcm-fuzzifier-pair.git
+cd it2fcm-fuzzifier-pair
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 export RESULTS_DIR=$PWD/results

@@ -11,6 +11,7 @@ authors:
     orcid: "https://orcid.org/0009-0007-6287-6744"
     affiliation: Silpakorn University
 license: MIT
+repository-code: "https://github.com/sopongth/it2fcm-fuzzifier-pair"
 type: software
 preferred-citation:
   type: article
