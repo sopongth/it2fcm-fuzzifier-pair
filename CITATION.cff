@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Code for Disentangling the Fuzzifier Pair From Its Type-1 Ingredients in Interval Type-2 Fuzzy C-Means Under Multiclass Imbalance"
+authors:
+  - family-names: Phumeechanya
+    given-names: Sopon
+    orcid: "https://orcid.org/0000-0002-0217-9513"
+    affiliation: Silpakorn University
+  - family-names: Sermwuthisarn
+    given-names: Parichat
+    orcid: "https://orcid.org/0009-0007-6287-6744"
+    affiliation: Silpakorn University
+license: MIT
+type: software
+preferred-citation:
+  type: article
+  title: "Disentangling the Fuzzifier Pair From Its Type-1 Ingredients in Interval Type-2 Fuzzy C-Means Under Multiclass Imbalance"
+  authors:
+    - family-names: Phumeechanya
+      given-names: Sopon
+    - family-names: Sermwuthisarn
+      given-names: Parichat
+  journal: "IEEE Access"
+  notes: "Manuscript submitted, 2026"
